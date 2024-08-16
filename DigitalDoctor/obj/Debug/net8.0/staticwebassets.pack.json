@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\obj\\Debug\\net8.0\\compressed\\7pcbdykpp9.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DigitalDoctor.styles.css",
+      "PackagePath": "staticwebassets\\DigitalDoctor.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\E7240\\source\\repos\\The-Digital-Doctor\\DigitalDoctor\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DigitalDoctor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DigitalDoctor.props",
+      "PackagePath": "build\\DigitalDoctor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DigitalDoctor.props",
+      "PackagePath": "buildMultiTargeting\\DigitalDoctor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DigitalDoctor.props",
+      "PackagePath": "buildTransitive\\DigitalDoctor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
